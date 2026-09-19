@@ -1,11 +1,10 @@
-```markdown
 # EWUX University — Multi-Campus Network Design & Implementation
 
 [![Cisco Packet Tracer](https://img.shields.io/badge/Simulator-Cisco%20Packet%20Tracer-blue)](https://www.netacad.com/about-networking-academy/packet-tracer)
 [![Routing Protocol](https://img.shields.io/badge/Routing-RIPv2-green)](https://en.wikipedia.org/wiki/Routing_Information_Protocol)
 [![Course](https://img.shields.io/badge/Course-CSE%20405%20Computer%20Networks-orange)](https://www.ewubd.edu/)
 
-A complete multi-campus enterprise wired network infrastructure designed, implemented, and simulated in Cisco Packet Tracer for **CSE 405: Computer Networks** at East West University.
+A complete multi-campus enterprise wired network infrastructure designed, implemented, and simulated in Cisco Packet Tracer.
 
 ---
 
@@ -46,8 +45,6 @@ This project models a centralized enterprise university network connecting seven
               [ Campus 5 LAN ]               [ Campus 4 LAN ]
               (192.168.5.0/24)               (192.168.4.0/24)
                  ( Router 5 )                   ( Router 4 )
-
-```
 
 ### Hardware Inventory & Device Summary
 
