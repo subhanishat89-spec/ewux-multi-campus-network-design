@@ -229,7 +229,7 @@ R       192.168.3.0/24 [120/2] via 10.0.1.1, 00:00:05, Serial0/0/0
 
 ---
 
-## 👤 Author & Academic Details
+## 👤 Author 
 
 * **Author:** Nishat Subha Mithela
 
