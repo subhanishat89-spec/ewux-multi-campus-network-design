@@ -1,5 +1,5 @@
 
-### EWUX University — Multi-Campus Network Design & Implementation
+# EWUX University — Multi-Campus Network Design & Implementation
 
 [![Cisco Packet Tracer](https://img.shields.io/badge/Simulator-Cisco%20Packet%20Tracer-blue)](https://www.netacad.com/about-networking-academy/packet-tracer)
 [![Routing Protocol](https://img.shields.io/badge/Routing-RIPv2-green)](https://en.wikipedia.org/wiki/Routing_Information_Protocol)
